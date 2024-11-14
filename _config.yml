@@ -1,0 +1,6 @@
+title: "Mi Sitio Web"
+description: "Descripción de mi sitio web"
+theme: jekyll-theme-material-you
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
